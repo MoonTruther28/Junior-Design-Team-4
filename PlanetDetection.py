@@ -5,4 +5,5 @@ class PlanetDetection:
         Returns:
         str: The detected planet name.
         """
+        # Code to detect which planet is placed on the sensor
         pass

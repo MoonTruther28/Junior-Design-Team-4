@@ -5,4 +5,5 @@ class PlanetMotion:
         Args:
         speed (int): The speed of the arm rotation.
         """
+        # Code to rotate the arm at the specified speed
         pass
